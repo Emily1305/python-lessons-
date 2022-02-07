@@ -4,8 +4,8 @@ Created on Mon Feb  7 06:54:52 2022
 
 Dictionary 
 """
-# otam = {'ism': 'Jamshid', 'tug_yili': 1980, 'manzil': 'Angren'}
-# print(f"Dadamlarning ismi {otam['ism']}. {otam['tug_yili']} - yili {otam['manzil']} shahrida tug'ilganlar") 
+otam = {'ism': 'Jamshid', 'tug_yili': 1980, 'manzil': 'Angren'}
+print(f"Dadamlarning ismi {otam['ism']}. {otam['tug_yili']} - yili {otam['manzil']} shahrida tug'ilganlar") 
 
 # taomlar = {
 #     'dadam': 'manti', 
